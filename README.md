@@ -25,7 +25,7 @@ The overall School Summary doesn't appear to have been affected either. The scor
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-By removing the ninth grade math and reading scores, Thomas High School's performance increase and it made it a top-five scoring school with a high overall score. 
+By removing the ninth grade math and reading scores, Thomas High School's performance increase and it made it a top-five scoring school with a high overall score. This shows that there was something wrong with the data regarding the 9th grade scores. 
 
 ![top_five_schools.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/top_five_schools.png)
 
