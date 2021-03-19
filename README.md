@@ -33,6 +33,7 @@ By removing the ninth grade math and reading scores, Thomas High School's perfor
 ### How does replacing the ninth-grade scores affect the following:
 
 - Math scores by grade
+
 ![math_reading_scores.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/math_reading_scores.png)
 
 - Reading scores by grade
