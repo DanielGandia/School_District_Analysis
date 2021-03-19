@@ -38,7 +38,7 @@ By removing the ninth grade math and reading scores, Thomas High School's perfor
 
 - Reading scores by grade
 
-![reading_scores.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/reading_scores.png)
+![reading_scores_new.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/reading_scores_new.png)
 
 - School Spending
 
