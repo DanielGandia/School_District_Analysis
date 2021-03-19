@@ -22,24 +22,31 @@ After the analysis, the district summary was not affected by the anomalies as th
 The overall School Summary doesn't appear to have been affected either. The scores also stayed the same. 
 
 ![distrcit_summary.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/district_summary.png)
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 By removing the ninth grade math and reading scores, Thomas High School's performance increase and it made it a top-five scoring school with a high overall score. 
 
 ![top_five_schools.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/top_five_schools.png)
+
 ### How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade: 
+
 ![math_reading_scores.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/math_reading_scores.png)
+
 - School Spending
 
 ![score_by_spend.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/score_by_spend.png)
+
 - School Size
 
 ![scores_by_size.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/scores_by_size.png)
+
 - School Type
 
 ![scores_by_type.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/scores_by_type.png)
+
 ## Summary
 
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
