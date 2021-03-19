@@ -18,6 +18,7 @@ Software: Python 3.8.3, Jupyter Notebook 6.1.4, Visual Studio Code 1.54
 ## Results
 ### How is the district summary affected?
 After the analysis, the district summary was not affected by the anomalies as the scores stayed virtually the same.
+
 ### How is the school summary affected?
 The overall School Summary doesn't appear to have been affected either. The scores also stayed the same. 
 
@@ -48,5 +49,12 @@ By removing the ninth grade math and reading scores, Thomas High School's perfor
 ![scores_by_type.png](https://github.com/DanielGandia/School_District_Analysis/blob/main/Resources/scores_by_type.png)
 
 ## Summary
+The four major changes in the analysis are:
 
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+1. The 9th grade data for Thomas High School had anomolies that were not fully identified but it affected the results. 
+
+2. Schools with lower funding had better overall scores than schools with higer funding and spend per student. 
+
+3. Charter schools had better scores in every category than Disctrict schools. 
+
+4. Schools that are Small and Medium size have a higher overall passing percentage than Large school size. 
